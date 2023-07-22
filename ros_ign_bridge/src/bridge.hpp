@@ -103,7 +103,7 @@ create_bidirectional_bridge(
   const std::string & ros_type_name,
   const std::string & ign_type_name,
   const std::string & topic_name,
-  size_t queue_size = 0)
+  size_t queue_size = 10)
 {
   ROS_DEBUG_STREAM("Creating bidirectional bridge for topic" << topic_name
       << " with ROS type [" << ros_type_name << "] and Ignition Transport"
