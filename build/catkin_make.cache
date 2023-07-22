@@ -1,2 +1,0 @@
-auv-ign/ros_ign:auv-ign/ros_ign_bridge:auv-ign/ros_ign_gazebo:auv-ign/ros_ign_gazebo_demos:auv-ign/ros_ign_image
--DCATKIN_DEVEL_PREFIX=/home/jetson/AUV-2023/ign_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/AUV-2023/ign_catkin_ws/install -G Unix Makefiles
