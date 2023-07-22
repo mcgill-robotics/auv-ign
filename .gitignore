@@ -1,0 +1,8 @@
+# generated catkin workspaces
+devel/
+build/
+logs/
+install/
+
+# catkin tools
+.catkin_tools/
