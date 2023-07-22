@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/AUV-2023/ign_catkin_ws/devel/setup.sh
