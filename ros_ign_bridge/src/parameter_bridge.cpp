@@ -92,7 +92,7 @@ int main(int argc, char * argv[])
 
   // Parse all arguments.
   const std::string delim = "@";
-  const size_t queue_size = 0;
+  const size_t queue_size = 1;
   for (auto i = 1; i < argc; ++i)
   {
     std::string arg = std::string(argv[i]);
